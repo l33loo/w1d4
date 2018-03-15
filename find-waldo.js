@@ -12,7 +12,7 @@ Starting point:
           console.log("Found him!");
         }
 
-Modify the callback function in the previous code so that logs the index of
+Modify the callback function so that logs the index of
 the array where Waldo is found, ie. "Found Waldo at index 2!". (You will need
 to modify actionWhenFound to receive the index.)
 */
